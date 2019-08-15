@@ -1,0 +1,9 @@
+.idea
+node_modules
+typings
+npm-debug.log
+*.map
+app.js
+routes/*.js
+models/*.js
+template_engines/*.js

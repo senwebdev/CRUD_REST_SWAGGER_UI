@@ -1,0 +1,5 @@
+CREATE USER newuser131
+  WITH PASSWORD 'newuser0103'
+  CREATEDB;
+CREATE DATABASE blog_exam131
+  OWNER newuser131; 
